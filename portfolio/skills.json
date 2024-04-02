@@ -1,0 +1,46 @@
+{
+  "name": "Yossri Chafcher",
+  "skills": {
+    "HTML and CSS": {
+      "level": "Intermediate",
+      "description": "Proficient in HTML syntax, elements, and structure , Familiarity with CSS syntax, basic styling, and layout techniques",
+      "image1" : "images/html.jpg",
+      "image2" : "images/css.jpg"
+    },
+    "JavaScript": {
+      "level": "Intermediate",
+      "description": "Proficient in JavaScript syntax, variables, data types, and DOM manipulation.",
+      "image" : "images/js.png"
+    },
+    "PHP": {
+      "level": "Beginner",
+      "description": "Basic understanding of PHP syntax, server-side scripting, and working with databases.",
+      "image" : "images/PHP.jpg"
+    },
+    "Express.js": {
+      "level": "Intermediate",
+      "description": "Proficient in Express.js framework for building web applications in Node.js.",
+      "image" : "images/ExpressJS.jpg"
+    },
+    "Node.js": {
+      "level": "Intermediate",
+      "description": "Proficient in Node.js runtime environment for executing JavaScript code server-side.",
+      "image" : "images/Nodesjs.png"
+    },
+    "React": {
+      "level": "Intermediate",
+      "description": "Proficient in React library for building user interfaces in JavaScript.",
+      "image" : "images/react.png"
+    },
+    " Git": {
+      "level": "Beginner",
+      "description": "Basic understanding of version control concepts and ability to perform basic Git operations like committing changes and pushing to remote repositories.",
+      "image" : "images/gitjpg.jpg"
+    },
+    " Web Development Tools": {
+      "level": "Beginner",
+      "description": "Familiarity with basic web development tools like text editors, browsers, and developer tools.",
+      "image" : "images/devtools.png"
+    }
+  }
+}
